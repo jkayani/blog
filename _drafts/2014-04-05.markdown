@@ -1,0 +1,15 @@
+---
+layout: post
+title: XFCE Interface for VMs!
+date: 2014-04-05
+tags: Ubuntu XFCE
+---
+It's been great using Linux to manage my blog, especially because I've learned so much about using the command line, and general Linux things. I'm currently running the Ubuntu 13.01 (yes, I need to update soon), and so far it's been an excellent experience - except for Unity. 
+
+I hate Unity; it's terribly laggy to use on a VM, and all of the animations are flat out superflous. It adds a whole layer of bloat to the desktop, and it's something I've secretly hated since starting. Some days, it would take up to 10 seconds just to load the search bar so I could search for an installed app, and then another 5 to pin it to the app bar (the thing on the left side). Anyway, you get the gist - it sucked.
+
+Then came XFCE/Xubuntu/whatever. I read about in some random forum post, and it cited XFCE's light UI, giving users the power and simplicity of Ubuntu without the extraneous "Unity" crap. So, I headed to the Terminal and ran the `apt-get install xubuntu-desktop` command, and here I am running XFCE. 
+
+I was initially surprised at how "ugly" it looked, but once I realized how lag-free the experience was, I couldn't bring myself to even care! Using XFCE on my VM makes me feel like I'm running Ubuntu natively - it feels just like Windows, minus the pretty UI. And honestly, I couldn't care less. 
+
+With this setup, I can focus on the real purpose of having an Ubuntu VM: to manage my blog, *and* become a Linux wizard, slowly and gradually. 

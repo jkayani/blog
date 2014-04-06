@@ -1,0 +1,27 @@
+---
+root: "../../../../"
+---
+{% comment %} For Single Posts {% endcomment %}
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+	{% include sidebar.html %}
+	<section class="blogs">
+			<h2>{{page.title}}</h2>
+			<br />
+			<time>{{page.date | date: "%B %d %Y"}}</time>
+			<br />
+			<div class="tags">
+			<em>Tags:</em>
+				{% for tag in page.tags %}
+					<span class="tag">{{tag}}</span>
+				{% endfor %}
+			</div>
+			<br />
+			<p>
+				{{ content }}
+			</p>
+	</section>
+</body>
+</html>

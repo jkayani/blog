@@ -1,0 +1,21 @@
+<section class="right">
+	<img src="{{ page.root }}images/mini-me.jpg" style="width: 50%; border-radius: 50px; margin: auto; display: block;" alt="Josh Kayani" />
+	<br />
+	<h1>Josh Kayani</h1>
+	<br />
+	<p>
+		Hello, I'm Josh Kayani. I <span class="strike">design</span>
+		and develop websites. This is my blog, where I rant
+		and rave about anything and everything.
+	</p>
+	<br />
+	<nav>
+		<a href="{{ page.root }}">Home</a>
+		<br />
+		<!--
+		<a href="{{ page.root }}learn">Learn about me</a>
+		<br />
+		<a href="{{ page.root }}converse">Converse with me</a>
+		-->
+	</nav>
+</section>

@@ -1,0 +1,20 @@
+---
+title: "Meta: Getting into blogging"
+layout: post
+date: 2014-03-18
+tags: Meta Blogging 
+---
+Blogging is hard sometimes. For me personally, I've been trying very hard to "get into blogging", to make it easier for me to find a topic that I can delve into and discuss for hours on end. While lots of the thrill from blogging comes from the technical side of it, there's also a lot to be gained from the literary and "liberal-arts" portion of blogging. After all, this is merely writing, is it not?
+
+Currently, I'm sitting here in absolute darkness, save for my computer screen which is emitting a pale, feeble white glow. The power's went out due to a storm, so I decide to start the next day's blog post. The question of course is, what do I write about? Even more importantly, even if I'm able to choose a topic tonight, what if I don't agree with myself the next day?
+
+I know I said in one of my earlier posts that I wanted to "break free" from writing about strictly technical things, like web design and JavaScript and this and that. But, in case you haven't noticed, the only articles I have are technical (except for this one, when it's published). Why? I always go back to writing technical articles, but why?
+
+By an interesting turn of events, I found myself reading the late Aaron Swartz's blog. For those who don't know, Swartz was a legendary Internet figure; an outspoken activist, he was an avid software developer (open source, of course) who championed freedom and liberty, both offline and on. Admittedly, I didn't know much about him to begin with, so when I initially approached his blog, I expected to see technical articles, about Python/PHP/whatever.
+
+I couldn't have been more wrong in my life. Swartz was not only all the brilliant things I mentioned earlier, but a philosopher as well. All of his blog posts were insightful things, full of wisdom and thought-out ideas. His posts were inspiring and thought-provoking, and in my humble opinion, Swartz was one of the best bloggers out there. He was able to diverge from the typical "nerd" talk, and discuss morals, ethics, management, you name it! 
+
+**I want to be like Aaron Swartz when it comes to blogging.** 
+
+
+

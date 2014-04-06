@@ -1,0 +1,24 @@
+---
+title: "A static blog in HTML: Can it be done?"
+date: 2014-03-14 21:34:31
+tags: Redesign HTML 
+---
+It's that time again: I decided to re-design my blog. What exactly does that entail? Well, for the year of 2014, it means getting away from my beloved Wordpress, and moving to a blog built from static pages. This may seem completely illogical at first, and rightly so. However, based off of my blogging needs
+and resources, this is simply the simplest and most optimal option.
+
+Allow me to elaborate:
+
+Basically, Wordpress and PHP were over-complicating things. They gave me tools I simply didn't need, and somewhat overwhelmed me in the p-ocess. Things like the numerous plug-ins, and the the entire software setup was overkill - it's absolutely amazing software, but like any tool, it has it's rightful purpose. I've built websites for customers (a customer, singular) before using Wordpress, and for that scenario, it was an excellent tool. However, to publish and administrate a small-scale blog like this, it's simply more convenient to use a system of static pages. No PHP, nothing dyanmic; just my words and I, the way my blog is designed to be.
+
+When I originally started writing, I wanted to use Wordpress and PHP because they seemed to be the "rite of passage" for web developers. Once you create your first Wordpress site from scratch, then you can call yourself a true "developer". Clearly, that's nothing but nonsense - there are **many** other platforms to build blogs with, and more importantly, building one particular thing does not make anyone a true
+developer. Becoming a true developer means becoming a tried one, one with experience and wisdom on their belts. 
+
+Another change I wanted to make is far less technical, but still just as important. On the old blog, I focused on technical articles, writing
+about my programming and web design experiences. I'm sick of writing about just that one thing; I was unhappy being restricted about what I could write about, which was one of the reasons I wrote scarcely (that, and I didn't have many experences to write about). From this point foward, I'm taking a far more relaxed approach, one that emphasizes genuine topics that I'm passionate about writing on, and one that allows me to write much more often. 
+
+Going with the above, I don't plan on categorizing posts like I did before. I hated that too - perhaps there is a point where organization and classification is more of a hassle than it's worth. In any case, I'm no longer going to be classify anything - whatever I choose to speak my mind on will be written in the blog. It allows a lot more breathing room, and I'm already excited about the possibilities this may bring.
+
+I want to be more passionate when it comes to this; reading some of my previous entries, I feel like I was dead. There was simply no emotion or backing behind anything I wrote - it felt dull and dead, and as a living human being, I am neither of those two. A person's blog should represent themselves, through views and opinions, overall design, and writing style. In fact, writing style just may be the most important aspect of a blog. 
+
+The gist of all this is simple: I'm starting afresh, with a new take on what "blogging" and running a blog mean. Yes, there will still be technical articles. Yes, I will continue to make tutorials about things as soon as I learn to use them myself. And yes, there will never be any form of a comments section. Zymic still charges
+for that PHP `mail()` function you know! 
