@@ -3,12 +3,4 @@ markdown: redcarpet
 pygments: true
 permalink: pretty
 
-# Glynn FTP Setup
-ftp_host: 'jkayani.zxq.net'
-ftp_dir: '/'
-ftp_passive: false
 
-# optional
-ftp_port: 21                  # default 21
-ftp_username: 'jkayani_zxq'     # default read from stdin
-ftp_password: '476a30bfa2' # default read from stdin
