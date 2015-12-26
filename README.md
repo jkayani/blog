@@ -1,4 +1,4 @@
 blog
 ====
 
-Source code for my blog powered by Jekyll
+Contains the source code for the Wordpress theme I use on my [blog](http://joshkayani.me).  
