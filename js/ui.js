@@ -1,3 +1,4 @@
+// Code not used currently 
 function responsiveScroll(){
 	if(jQuery(window).width() <= 580){
 		console.log("Resizing?");
